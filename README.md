@@ -2,6 +2,10 @@
 Aluno João Barros Guatura da Costa
 
 ------------------------------
+Bibliotecas usadas: pandas, scikit-learn, seaborn, matplotlib, kaggle
+------------------------------
+
+------------------------------
 Tradução das siglas:
 ------------------------------
 
