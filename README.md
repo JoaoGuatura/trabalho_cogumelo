@@ -5,6 +5,9 @@ Aluno João Barros Guatura da Costa
 Bibliotecas usadas: pandas, scikit-learn, seaborn, matplotlib, kaggle
 ------------------------------
 
+Para executar o código, utilize: 
+python main.py profile data/mushrooms.csv
+
 ------------------------------
 Tradução das siglas:
 ------------------------------
